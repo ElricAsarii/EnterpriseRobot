@@ -21,7 +21,7 @@ pretty_errors
 psutil
 psycopg2-binary
 pynewtonmath
-pyrate-limiter
+pyrate-limiter==2.5.0
 python-telegram-bot==12.8
 regex
 requests
